@@ -9,6 +9,7 @@ public class Employee {
     private long employeeDeptId;
     private long employeeManagerId;
     private boolean isManager;
+    int a =10;
     public Employee() {
     }
     public Employee(long employeeNumber, String employeeName, String employeeEmail, long employeeDeptId,
